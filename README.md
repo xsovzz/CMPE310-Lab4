@@ -12,6 +12,9 @@ File format:
 ## Build
 make
 
+## Complie
+gcc -Wall -Wextra -g main.c sum_array.s -o lab4
+
 ## Run
 ./lab4 data.txt
 
